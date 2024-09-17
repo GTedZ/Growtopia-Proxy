@@ -1,0 +1,32 @@
+﻿  callbacks.c
+  compress.c
+  host.c
+  list.c
+  packet.c
+  peer.c
+  protocol.c
+  unix.c
+  win32.c
+  sandbird.c
+  Generating Code...
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\sandbird\sandbird.c(520,55): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\sandbird\sandbird.c(834,42): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\sandbird\sandbird.c(897,17): warning C4244: 'function': conversion from 'sb_Socket' to 'int', possible loss of data
+  events.cpp
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(322,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(339,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(355,30): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  gt.cpp
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(322,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(339,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(355,30): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  proxy.cpp
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\httplib.h(239,10): error C1083: Cannot open include file: 'openssl/err.h': No such file or directory
+  server.cpp
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(322,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(339,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp(355,30): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  utils.cpp
+C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\utils\utils.h(5,10): error C1083: Cannot open include file: 'enet/include/enet.h': No such file or directory
+  httplib.h
+  Generating Code...
