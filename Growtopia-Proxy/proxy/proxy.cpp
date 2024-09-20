@@ -77,9 +77,37 @@ void startHTTPS()
     KeyPemAppend << KeyPem;
     KeyPemAppend.close();
     SSLServer svr(std::string{ temp + ("//cert.pem") }.c_str(), std::string{ temp + ("//key.pem") }.c_str());  
+
     svr.Post("/growtopia/server_data.php", [](const Request& req, Response& res) {
-        res.set_content("server|127.0.0.1\nport|17191\ntype|1\n#maint|Under maintenance.\nbeta_server|127.0.0.1\nbeta_port|1945\nbeta_type|1\nmeta|defined\nRTENDMARKERBS1001\nunknown\nloginurl|login.growtopiagame.com", "text/html");
+        std::string metaValue = server->meta;
+        if (metaValue.empty()) {
+            metaValue = "undefined";
+        }
+        std::string content =
+            "server|127.0.0.1\n"
+            "port|17191\n"
+            "loginurl|login.growtopiagame.com\n"
+            "type|1\n"
+            "beta_server|beta.growtopiagame.com\n"
+            "beta_loginurl|beta.growtopiagame.com\n"
+            "beta_port|26999\n"
+            "beta_type|1\n"
+            "beta2_server|beta2.growtopiagame.com\n"
+            "beta2_loginurl|beta2.growtopiagame.com\n"
+            "beta2_port|26999\n"
+            "beta2_type|1\n"
+            "beta3_server|34.202.7.77\n"
+            "beta3_loginurl|beta3.growtopiagame.com\n"
+            "beta3_port|26999\n"
+            "beta3_type|1\n"
+            "type2|0\n"
+            "#maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!\n"
+            "meta|" + metaValue + "\n"
+            "RTENDMARKERBS1001\n";
+
+        res.set_content(content, "text/html");
         });
+
     remove(std::string{ temp + ("//cert.pem") }.c_str());
     remove(std::string{ temp + ("//key.pem") }.c_str());
     svr.listen("127.0.0.1", 443);
@@ -109,7 +137,7 @@ void setgtserver() {
     try {
         using namespace httplib;
         Headers headers;
-        headers.insert(std::make_pair("User-Agent", "UbiServices_SDK_2019.Release.27_PC64_unicode_static"));
+        headers.insert(std::make_pair("User-Agent", "UbiServices_SDK_2022.Release.9_PC64_ansi_static"));
         headers.insert(std::make_pair("Host", "www.growtopia1.com"));
 
         Client cli("https://a104-125-3-135.deploy.static.akamaitechnologies.com");
@@ -117,7 +145,9 @@ void setgtserver() {
         cli.enable_server_certificate_verification(false);
         cli.set_connection_timeout(2, 0);
 
-        auto res = cli.Post("/growtopia/server_data.php");
+        std::string postBody = "version=4.66&platform=0&protocol=210";
+        auto res = cli.Post("/growtopia/server_data.php", postBody, "application/x-www-form-urlencoded");
+
         if (res && res->status == 200) {
             rtvar var = rtvar::parse({ res->body });
             server->ip = (var.find("server") ? var.get("server") : server->ip);
