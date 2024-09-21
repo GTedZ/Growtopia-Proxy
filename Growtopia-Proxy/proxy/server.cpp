@@ -5,11 +5,17 @@
 #include "proton/hash.hpp"
 #include "proton/rtparam.hpp"
 #include "utils/utils.h"
+#include <Windows.h>
+
+void sendToNode(ENetPacket* packet);
+
 Server* server = new Server();
 void Server::handle_outgoing() {
     ENetEvent evt;
     while (enet_host_service(proxy_server, &evt, 0) > 0) {
         gt_peer = evt.peer;
+
+        sendToNode(evt.packet);
 
         switch (evt.type) {
             case ENET_EVENT_TYPE_CONNECT: {
@@ -350,4 +356,38 @@ void Server::send(bool client, std::string text, int32_t type) {
     if (code != 0)
         PRINTS("Error sending packet! code: %d\n", code);
     enet_host_flush(host);
+}
+
+HANDLE pipe = NULL;
+
+void sendToNode(ENetPacket* packet) {
+    if (pipe == NULL) {
+        std::cout << "Creating new pipe!";
+        pipe = CreateFile(TEXT("\\\\.\\pipe\\MyPipe"), GENERIC_WRITE, 0, NULL, OPEN_EXISTING, 0, NULL);
+        if (pipe == INVALID_HANDLE_VALUE) {
+            std::cerr << "Failed to connect to pipe. Error: " << GetLastError() << std::endl;
+            return;
+        }
+    }
+    if (!packet) {
+        std::cerr << "Packet is null!" << std::endl;
+        return;
+    }
+
+    // Manually form the JSON string
+    std::string jsonString = "{";
+    jsonString += "\"referenceCount\":\"" + std::to_string(packet->referenceCount) + "\",";
+    jsonString += "\"flags\":\"" + std::to_string(packet->flags) + "\",";
+
+    // Convert data to string (assuming it's a simple null-terminated string for this example)
+    jsonString += "\"data\":\"" + std::string(reinterpret_cast<const char*>(packet->data), packet->dataLength) + "\",";
+
+    jsonString += "\"dataLength\":\"" + std::to_string(packet->dataLength) + "\"";
+    jsonString += "}";
+
+    // Write message (JSON) to pipe
+    DWORD bytesWritten;
+    if (!WriteFile(pipe, jsonString.c_str(), jsonString.length(), &bytesWritten, NULL)) {
+        std::cerr << "Failed to write to pipe. Error: " << GetLastError() << std::endl;
+    }
 }
