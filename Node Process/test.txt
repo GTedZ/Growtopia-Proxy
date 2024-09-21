@@ -1,0 +1,241 @@
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"5","data":"☺"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"176","data":"♦☺���s☻♫OnSendToServer☺    �B☻     ?��♥    ��♥☻2213.179.209.185|0|021A9B03B02D178A01B2A0B639C73219♣    ☺♠FKPGdMW1a"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"5","data":"☺"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"5","data":""}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"171","data":"♥action|log
+msg|`4ALREADY ON?!`` : This account was already online, kicking it off so you can log on. (if you were just playing before, this is nothing to worry about){"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"116","data":"♦☺���7♣☻↑OnOverrideGDPRFromServer☺ ↕☻      ☺♥ ♦☺ "}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"115","data":"♦☺���6♥☻↨OnSetRoleSkinsAndTitles☺☻♠000000☻☻♠000000"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"3013","data":"♦☺����♂☻,OnSuperMainStartAcceptLogonHrdxs47254722215a☺♣Hc�↨☻☻↑ubistatic-a.akamaihd.net♥☻▬0098/0202409190/cache/♦☻�☺cc.cz.madkite.freedom org.aqua.gg idv.aqua.bulldog com.cih.gamecih2 com.cih.gamecih com.cih.game_cih cn.maocai.gamekiller com.gmd.speedtime org.dax.attack com.x0.strai.frep com.x0.strai.free org.cheatengine.cegui org.sbtools.gamehack com.skgames.traffikrider org.sbtoods.gamehaca com.skype.ralder org.cheatengine.cegui.xx.multi1458919170111 com.prohiro.macro me.autotouch.autotouch com.cygery.repetitouch.free com.cygery.repetitouch.pro com.proziro.zacro com.slash.gamebuster♣☻(     proto=210|choosemusic=audio/mp3/about_theme.mp3|active_holiday=0|wing_week_day=0|ubi_week_day=0|server_tick=17851544|clash_active=0|drop_lavacheck_faster=1|isPayingUser=0|usingStoreNavigation=1|enableInventoryTab=1|bigBackpack=1|m_clientBits=|eventButtons={"EventButtonData":[{"Components":[{"Enabled":false,"Id":"Overlay","Parameters":"target_child_entity_name:overlay_layer;var_name:alpha;target:0;interpolation:1;on_finish:1;duration_ms:1000;delayBeforeStartMS:1000","Type":"InterpolateComponent"}],"DialogName":"openLnySparksPopup","IsActive":false,"Name":"LnyButton","Priority":1,"Text":"0/5","TextOffset":"0.01,0.2","Texture":"interface/large/event_button3.rttex","TextureCoordinates":"0,2"},{"Components":[{"Enabled":true,"Parameters":"","Type":"RenderDailyChallengeComponent"}],"DialogName":"dailychallengemenu","IsActive":false,"Name":"DailyChallenge","Priority":3},{"Components":[{"Enabled":false,"Id":"Overlay","Parameters":"target_child_entity_name:overlay_layer;var_name:alpha;target:0;interpolation:1;on_finish:1;duration_ms:1000;delayBeforeStartMS:1000","Type":"InterpolateComponent"}],"DialogName":"openStPatrickPiggyBank","IsActive":false,"Name":"StPatrickPBButton","Priority":1,"Text":"0/0","TextOffset":"0.00,0.05","Texture":"interface/large/event_button4.rttex","TextureCoordinates":"0,0"},{"DialogName":"show_bingo_ui","IsActive":false,"Name":"Bingo_Button","Priority":1,"Texture":"interface/large/event_button4.rttex"},{"Components":[{"Enabled":false,"Id":"Overlay","Parameters":"target_child_entity_name:overlay_layer;var_name:alpha;target:0;interpolation:1;on_finish:1;duration_ms:1000;delayBeforeStartMS:1000","Type":"InterpolateComponent"}],"DialogName":"openPiggyBank","IsActive":false,"Name":"PiggyBankButton","Priority":2,"Text":"0/0","TextOffset":"0.00,0.05","Texture":"interface/large/event_button4.rttex","TextureCoordinates":"0,2"},{"Components":[{"Enabled":false,"Id":"Overlay","Parameters":"target_child_entity_name:overlay_layer;var_name:alpha;target:0;interpolation:1;on_finish:1;duration_ms:1000;delayBeforeStartMS:1000","Type":"InterpolateComponent"}],"DialogName":"claimprogressbar","IsActive":false,"Name":"SummerfestButton","OverlayTexture":"interface/large/event_button.rttex","Priority":1,"Text":"0/5","TextOffset":"0.01,0","Texture":"interface/large/event_button.rttex","TextureCoordinates":"0,2"}]}♠♣Zr^�"}~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"158","data":"♠eventType|0
+eventName|102_PLAYER.AUTHENTICATION
+Authenticated|1
+Authentication_error|0
+Device_Id|^^
+Grow_Id|60947968
+Name|^^FKPGdMW1
+Worldlock_balance|0
+"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"116","data":"♦☺���7☻☻►OnConsoleMessage☺☻→Break 20 Dirt Blocks: 0/20"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"134","data":"♦☺���I☻‼OnFtueButtonDataSet☺       ☻       ♥ ||0|||-1♣☻♠☻♥1|1"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"152","data":"♦☺���[♠☻¶OnEventButtonDataSet☺☻☼PiggyBankButto☻☺♥☻►     0/350K     ♦☻♥0,2♠☻"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"860","data":"♦☺���▼♥♥☻§OnEmoticonDataChanged☺   �☻☻�☻(wl)|ā|0&(yes)|Ă|0&(no)|ă|0&(love)|Ą|0&(oops)|ą|0&(shy)|Ć|0&(wink)|ć|0&(tongue)|Ĉ|1&(agree)|ĉ|0&(sleep)|Ċ|0&(punch)|ċ|0&(music)|Č|0&(build)|č|0&(megaphone)|Ď|0&(sigh)|ď|1&(mad)|Đ|1&(wow)|đ|1&(dance)|Ē|0&(see-no-evil)|ē|0&(bheart)|Ĕ|0&(heart)|ĕ|0&(grow)|Ė|0&(gems)|ė|0&(kiss)|Ę|0&(gtoken)|ę|0&(lol)|Ě|0&(smile)|Ā|1&(cool)|Ĝ|0&(cry)|ĝ|0&(vend)|Ğ|0&(bunny)|ě|0&(cactus)|ğ|0&(pine)|Ĥ|0&(peace)|ģ|0&(terror)|ġ|0&(troll)|Ġ|0&(evil)|Ģ|0&(fireworks)|Ħ|0&(football)|ĥ|0&(alien)|ħ|0&(party)|Ĩ|0&(pizza)|ĩ|0&(clap)|Ī|0&(song)|ī|0&(ghost)|Ĭ|0&(nuke)|ĭ|0&(halo)|Į|0&(turkey)|į|0&(gift)|İ|0&(cake)|ı|0&(heartarrow)|Ĳ|0&(lucky)|ĳ|0&(shamrock)|Ĵ|0&(grin)|ĵ|0&(ill)|Ķ|0&(eyes)|ķ|0&(weary)|ĸ|0&(moyai)|ļ|0&(plead)|Ľ|0&�"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"121","data":"♦☺���<☻☻►OnConsoleMessage☺☻▼Welcome back, `w`wFKPGdMW1````."}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"213","data":"♦☺����☻☻►OnConsoleMessage☺☻{`2The Carnival has come to Growtopia!`` Check out the fun and games in the world `9CARNIVAL``! Hurry, it only lasts 3 days!"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"227","data":"♦☺����☻☻►OnConsoleMessage☺☻�`3Today is Surgery Day!`` `4Malpractice`` and `4Recovering`` effects only last a few minutes, and bonus items can be found doing surgery.�"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"217","data":"♦☺����☻☻►OnConsoleMessage☺☻⌂`3Today is Fishing Day!`` Your first Fishing quest will give 1 `2Growtoken`` and all Fishing quests will give 25% bonus points!:"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"169","data":"♦☺���l☻☻►OnConsoleMessage☺☻O`5Personal Settings active:`` `#Can customize profile, Punch Joystick enabled``"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"172","data":"♦☺���o♣☻‼UpdateMainMenuTheme☺      ☻♣����♥♣���☻=4226000383|4226000383|80543231|80543231|1554912511|1554912511`"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"100","data":"♦☺���'☻☻→OnPaw2018SkinColor1Changed☺       "}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"100","data":"♦☺���'☻☻→OnPaw2018SkinColor2Changed☺       "}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"164","data":"♦ g☺→↑↕☺ ☺�↑☺�‼☺�‼v��‼(x♣☺�‼0�‼8�!*�‼      �‼☼‼S�‼
+�♂i�♂#☺☻n�☺1"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"108","data":"♦☺���/♣OnSetBux☺   �♣☻     ☺♥      ♦♦�:G2"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"90","data":"♦☺���↔♥☻
+OnSetPearl☺     ☻       ☺V"}
+~~~~~~~~~~
+OnSetVouchers☺","}ype":3,"referenceCount":"0","flags":"1","dataLength":"87","data":"♦☺���→☻☻
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"106","data":"♦☺���-♦☻♀SetHasGrowID☺♣☺☻FKPGdMW1♥☻"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"94","data":"♦☺���!☻☻¶SetHasAccountSecured☺♣"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"104","data":"♦☺���+♣☻♀OnTodaysDate☺             ☻       §♥♣R♦♣;"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"100","data":"♦☺���'☻☻→SetShowChatOnlyFromFriends☺♣"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"174","data":"♠eventType|0
+eventName|300_WORLD_VISIT
+Device_Id|^^
+Grow_Id|60947968
+Locked|1
+World_category|0
+World_name|^^VLADTEST69
+World_owner|60947968
+World_rank|0
+weathermachine|0
+7"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"860","data":"♦☺���▼♥♥☻§OnEmoticonDataChanged☺   �☻☻�☻(wl)|ā|0&(yes)|Ă|0&(no)|ă|0&(love)|Ą|0&(oops)|ą|0&(shy)|Ć|0&(wink)|ć|0&(tongue)|Ĉ|1&(agree)|ĉ|0&(sleep)|Ċ|0&(punch)|ċ|0&(music)|Č|0&(build)|č|0&(megaphone)|Ď|0&(sigh)|ď|1&(mad)|Đ|1&(wow)|đ|1&(dance)|Ē|0&(see-no-evil)|ē|0&(bheart)|Ĕ|0&(heart)|ĕ|0&(grow)|Ė|0&(gems)|ė|0&(kiss)|Ę|0&(gtoken)|ę|0&(lol)|Ě|0&(smile)|Ā|1&(cool)|Ĝ|0&(cry)|ĝ|0&(vend)|Ğ|0&(bunny)|ě|0&(cactus)|ğ|0&(pine)|Ĥ|0&(peace)|ģ|0&(terror)|ġ|0&(troll)|Ġ|0&(evil)|Ģ|0&(fireworks)|Ħ|0&(football)|ĥ|0&(alien)|ħ|0&(party)|Ĩ|0&(pizza)|ĩ|0&(clap)|Ī|0&(song)|ī|0&(ghost)|Ĭ|0&(nuke)|ĭ|0&(halo)|Į|0&(turkey)|į|0&(gift)|İ|0&(cake)|ı|0&(heartarrow)|Ĳ|0&(lucky)|ĳ|0&(shamrock)|Ĵ|0&(grin)|ĵ|0&(ill)|Ķ|0&(eyes)|ķ|0&(weary)|ĸ|0&(moyai)|ļ|0&(plead)|Ľ|0&f"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"85","data":"♦☺���↑☺☻◄HidePearlCurrency"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"48208","data":"♦↕i►☺‼�↨@
+VLADTEST69d<p↨!☻|�‼�‼@�‼@�‼@�‼@�‼�☺♥��♥☺↑►►►►:☼�♠☺☺♦XIT�☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫♫♫♫
+♫♫☻♫☻♫♫♫♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫♫♫♫☻♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫☻♫☻♫☻♫☻♫☻♫
+♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♫♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫♦♫☻♫♦♫☻♫♦♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫♦♫♦♫☻♫☻♫☻♫♦♫☻♫☻♫♦♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫♦♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫♦♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫♦♫☻♫☻♫☻♫♦♫☻♫♦♫☻♫♦♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫
+♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♦♫♦♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫♦♫♦♫♦♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫♦♫♦♫♦♫♦♫♦♫♦♫☻♫☻♫♫♫☻♫☻♫☻♫♦♫☻♫☻♫♦♫☻♫☻♫♦♫☻♫☻♫♦♫☻♫☻♫♦♫♦♫♦♫☻♫☻♫☻♫☻♫☻♫♦♫☻♫♦♫♦♫☻♫♦♫☻♫♦♫♦♫♦♫☻♫♦♫♦♫☻♫☻♫☻♫♦♫☻♫♦♫♦♫☻♫♦♫☻♫♦♫
+♫♦♫♦♫☻♫
+♫☻♫♦♫♦♫☻♫♦♫♦♫♦♫♦♫☻♫♦♫♦♫☻♫☻♫☻♫♦♫♦♫♦♫♦♫♦♫♦♫☻♫☻♫♦♫☻♫☻♫♦♫☻♫☻♫☻♫☻♫☻♫☻♫♦♫☻♫☻♫♦♫♦♫☻♫♦♫♦♫♦♫♦♫☻♫☻♫♦♫☻♫☻♫☻♫♦♫☻♫
+♫♦♫♦♫☻♫☻♫☻♫♦♫☻♫☻♫♦♫☻♫☻♫☻♫♦♫☻♫♦♫☻♫☻♫♫♫☺*☺☺☺���♫�T☻��☻☻♥P
+E@ID☺♦☺♥�↑E�ZD☺♦☻"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"61","data":"♦#������������"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"435","data":"♦☺�������v☺☻☻OnSpawn☺☻b☺spawn|avatar
+netID|1
+userID|60947968
+eid|35FZsxSLIs6GXtzTbXS4+g==
+ip|s49Kbm5iV2xFvXJiU0xCzHKzVzmICQQ6XLosYql2Ac8=
+colrect|0|0|20|30
+posXY|2208|736
+name|`2FKPGdMW1``
+titleIcon|{"PlayerWorldID":1,"WrenchCustomization":{"WrenchForegroundCanRotate":false,"WrenchForegroundID":-1,"WrenchIconID":-1}}
+country|us
+invis|0
+mstate|0
+smstate|0
+onlineID|
+type|local
+�"}
+~~~~~~~~~~
+OnFlagMay2019☺♣☺"}ype":3,"referenceCount":"0","flags":"1","dataLength":"87","data":"♦☺→☻☻
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"61","data":"♦¶��☺�B�DHCzCzD"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"97","data":"♦☺$☻☻↨OnSetFriendOfWorldOwner☺♣p"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"96","data":"♦☺���#☻☻▬OnDisabledParticleList☺☻"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"86","data":"♦☺↓☻OnSetPos☺♥
+E8D"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"55","data":"♥action|play_sfx
+file|audio/door_open.wav
+delayMS|0q"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"174","data":"♦☺���q☻☻►OnConsoleMessage☺☻TWorld `wVLADTEST69`` entered.  There are `w0`` other people here, `w61,550`` online.7"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"164","data":"♦☺���g☻☻►OnConsoleMessage☺☻J`5[```wVLADTEST69`` `$World Locked`` by FKPGdMW1 (`2ACCESS GRANTED``)`5]``"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"108","data":"♦☺/♦☻▬OnSetRoleSkinsAndIcons☺♣♠☻♣♠♥        n"}
+~~~~~~~~~~
+OnSetClothing☺♦☻♦♥♦♦♣�Õ�♣♦J"}erenceCount":"0","flags":"1","dataLength":"143","data":"♦☺R♠☻
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"109","data":"♦☺���0☻☻#OnMagicCompassTrackingItemIDChanged☺♣c"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"144","data":"♦☺���S☻¶OnEventButtonDataSet☺☻♫DailyChallenge☻
+☺♥☻♦☻♥3,3♣☻♥3,3♠☻s"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"111","data":"♦☺���2☻☻↨OnDailyChallengeRequest☺☻♫0|0|31406|3142"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"860","data":"♦☺���▼♥♥☻§OnEmoticonDataChanged☺   �☻☻�☻(wl)|ā|0&(yes)|Ă|0&(no)|ă|0&(love)|Ą|0&(oops)|ą|0&(shy)|Ć|0&(wink)|ć|0&(tongue)|Ĉ|1&(agree)|ĉ|0&(sleep)|Ċ|0&(punch)|ċ|0&(music)|Č|0&(build)|č|0&(megaphone)|Ď|0&(sigh)|ď|1&(mad)|Đ|1&(wow)|đ|1&(dance)|Ē|0&(see-no-evil)|ē|0&(bheart)|Ĕ|0&(heart)|ĕ|0&(grow)|Ė|0&(gems)|ė|0&(kiss)|Ę|0&(gtoken)|ę|0&(lol)|Ě|0&(smile)|Ā|1&(cool)|Ĝ|0&(cry)|ĝ|0&(vend)|Ğ|0&(bunny)|ě|0&(cactus)|ğ|0&(pine)|Ĥ|0&(peace)|ģ|0&(terror)|ġ|0&(troll)|Ġ|0&(evil)|Ģ|0&(fireworks)|Ħ|0&(football)|ĥ|0&(alien)|ħ|0&(party)|Ĩ|0&(pizza)|ĩ|0&(clap)|Ī|0&(song)|ī|0&(ghost)|Ĭ|0&(nuke)|ĭ|0&(halo)|Į|0&(turkey)|į|0&(gift)|İ|0&(cake)|ı|0&(heartarrow)|Ĳ|0&(lucky)|ĳ|0&(shamrock)|Ĵ|0&(grin)|ĵ|0&(ill)|Ķ|0&(eyes)|ķ|0&(weary)|ĸ|0&(moyai)|ļ|0&(plead)|Ľ|0&G"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"295","data":"♠eventType|0
+eventName|100_MOBILE.START
+Awesomeness|0
+Event|0
+Friends_nb|0
+Gems_balance|1485
+Global_Playtime|894034
+GrowId|60947968
+Level|59
+Session_nb|323
+connectiontype|*GetCurrentNetworkType
+deviceid|^^
+installDate|1643086800
+othercurrency|^^{"242":0,"1486":0,"1796":0,"6802":0,"7188":0}
+"}
+~~~~~~~~~~
+{"incoming":"1","type":3,"referenceCount":"0","flags":"1","dataLength":"61","data":"♦▬"}
+~~~~~~~~~~

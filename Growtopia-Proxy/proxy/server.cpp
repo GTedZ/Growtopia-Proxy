@@ -7,7 +7,7 @@
 #include "utils/utils.h"
 #include <Windows.h>
 
-void sendToNode(ENetPacket* packet);
+void sendToNode(ENetPacket* packet, int type, bool incoming);
 
 Server* server = new Server();
 void Server::handle_outgoing() {
@@ -15,9 +15,10 @@ void Server::handle_outgoing() {
     while (enet_host_service(proxy_server, &evt, 0) > 0) {
         gt_peer = evt.peer;
 
-        sendToNode(evt.packet);
-
         switch (evt.type) {
+
+            sendToNode(evt.packet, evt.type, false);
+
             case ENET_EVENT_TYPE_CONNECT: {
                 if (!this->connect())
                     return;
@@ -100,6 +101,9 @@ void Server::handle_incoming() {
     ENetEvent event;
 
     while (enet_host_service(real_server, &event, 0) > 0) {
+
+        sendToNode(event.packet, event.type, true);
+
         switch (event.type) {
             case ENET_EVENT_TYPE_CONNECT: PRINTC("connection event\n"); break;
             case ENET_EVENT_TYPE_DISCONNECT: this->disconnect(true); return;
@@ -360,7 +364,7 @@ void Server::send(bool client, std::string text, int32_t type) {
 
 HANDLE pipe = NULL;
 
-void sendToNode(ENetPacket* packet) {
+void sendToNode(ENetPacket* packet, int type, bool incoming) {
     if (pipe == NULL) {
         std::cout << "Creating new pipe!";
         pipe = CreateFile(TEXT("\\\\.\\pipe\\MyPipe"), GENERIC_WRITE, 0, NULL, OPEN_EXISTING, 0, NULL);
@@ -376,14 +380,16 @@ void sendToNode(ENetPacket* packet) {
 
     // Manually form the JSON string
     std::string jsonString = "{";
+    jsonString += "\"incoming\":\"" + std::to_string(incoming) + "\",";
+    jsonString += "\"type\":" + std::to_string(type) + ",";
     jsonString += "\"referenceCount\":\"" + std::to_string(packet->referenceCount) + "\",";
     jsonString += "\"flags\":\"" + std::to_string(packet->flags) + "\",";
 
-    // Convert data to string (assuming it's a simple null-terminated string for this example)
-    jsonString += "\"data\":\"" + std::string(reinterpret_cast<const char*>(packet->data), packet->dataLength) + "\",";
+    jsonString += "\"dataLength\":\"" + std::to_string(packet->dataLength) + "\",";
 
-    jsonString += "\"dataLength\":\"" + std::to_string(packet->dataLength) + "\"";
-    jsonString += "}";
+    // Convert data to string (assuming it's a simple null-terminated string for this example)
+    jsonString += "\"data\":\"" + std::string(reinterpret_cast<const char*>(packet->data), packet->dataLength) + "\"";
+    jsonString += "}\n~~~~~~~~~~\n";
 
     // Write message (JSON) to pipe
     DWORD bytesWritten;
