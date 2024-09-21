@@ -2,9 +2,9 @@
 #include <stdint.h>
 #include <string>
 #include <vector>
-#include "enet/include/enet.h"
-#include "packet.h"
-#include "proton/variant.hpp"
+#include "C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\enet\include\enet.h"
+#include "C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\packet.h"
+#include "C:\Users\user\Desktop\Growtopia-Proxy\Growtopia-Proxy\proxy\proton\variant.hpp"
 
 #define PRINTS(msg, ...) printf("[SERVER]: " msg, ##__VA_ARGS__);
 #define PRINTC(msg, ...) printf("[CLIENT]: " msg, ##__VA_ARGS__);
